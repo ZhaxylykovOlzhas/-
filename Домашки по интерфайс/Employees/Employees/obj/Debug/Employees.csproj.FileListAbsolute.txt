@@ -1,0 +1,7 @@
+c:\users\жаксылыково\source\repos\Employees\Employees\bin\Debug\Employees.exe.config
+c:\users\жаксылыково\source\repos\Employees\Employees\bin\Debug\Employees.exe
+c:\users\жаксылыково\source\repos\Employees\Employees\bin\Debug\Employees.pdb
+c:\users\жаксылыково\source\repos\Employees\Employees\obj\Debug\Employees.csprojAssemblyReference.cache
+c:\users\жаксылыково\source\repos\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+c:\users\жаксылыково\source\repos\Employees\Employees\obj\Debug\Employees.exe
+c:\users\жаксылыково\source\repos\Employees\Employees\obj\Debug\Employees.pdb
